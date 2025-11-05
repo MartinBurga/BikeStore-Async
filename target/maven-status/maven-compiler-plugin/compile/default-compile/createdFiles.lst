@@ -1,0 +1,6 @@
+com\bikestore\async\BikeStoreApiApplication.class
+com\bikestore\async\OrderProducer.class
+com\bikestore\async\OrderController.class
+com\bikestore\async\PaymentWorker.class
+com\bikestore\async\DLQConsumer.class
+com\bikestore\async\EmailWorker.class
